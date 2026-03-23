@@ -1,6 +1,6 @@
-### WARNING: This mod is a university assignment, so there are certainly many aspects that may not have been fully considered. The author assumes no responsibility for any losses or damages caused by this mod.
+# WARNING: This mod is a university assignment, so there are certainly many aspects that may not have been fully considered. The author assumes no responsibility for any losses or damages caused by this mod.
 
-# Github: https://github.com/create-xiaoyu/Player-Logger
+## Github: https://github.com/create-xiaoyu/Player-Logger
 
 ## 📦 Mod Description (CurseForge)
 
